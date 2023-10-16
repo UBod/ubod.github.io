@@ -1,0 +1,120 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<title>Ulrich Bodenhofer</title>
+		<link rel="stylesheet" href="../css/ulrich.css">
+		<script language=JavaScript src="../scripts/Ulrich-Scripts.js"></script>
+
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-12921209-2");
+        pageTracker._trackPageview();
+        } catch(err) {}</script>
+	</head>
+
+	<body>
+		<table border="0" cellpadding="0" cellspacing="0" width="722">
+			<tr>
+			<td valign="top" width="120" height="96">
+				<img src="../pics/bodenhofer.jpg" width="120" height="96">
+				<p>
+				<center>
+				<script type="text/javascript">
+                                	<!--
+                                        	writeMenu("publications","","../");
+                                        //-->
+				</script>
+				</center>
+				</p>
+				</td>
+			<td valign="top" width="602">
+<! START OF  TEXT ---------------------------------------------------------------------------------------- >
+<h1>Ulrich Bodenhofer's Publications</h1>
+
+<p>
+[<a href="index.html">Overview</a> |
+<a href="Books.html">Books</a> |
+<a href="Theses.html">Theses</a> |
+<a href="Editorial.html">Editorial</a> |
+<a href="InBooks.html">Book Ch.</a> |
+<a href="IntJournals.html">Int. J.</a> |
+<a href="NatJournals.html">Nat. J.</a> |
+<a href="Conferences.html">Conf.</a> |
+<a href="TechReports.html">Tech. Rep.</a> |
+<a href="Abstracts.html">Abstr.</a>]
+</p>
+
+<h3>Special Issues</h3>
+
+<p>
+<a name="BodenhoferHuellermeierKlawonnKruse07"></a><img src="covers/SoftComputing_80.jpg" align="left" hspace="5" vspace="0" border=1>
+U.&nbsp;Bodenhofer, E.&nbsp;H&uuml;llermeier, F.&nbsp;Klawonn, and R.&nbsp;Kruse, editors<br>
+<b>Special issue &quot;Soft computing for information mining.&quot;</b><br>
+<em>Soft Computing</em>, 11(5):397-494, 2007. (7 papers) [<a href="http://www.springerlink.com/content/k1n1v3676154/?p=30978048f0f14f968877c764e1c921de&pi=0" target="new_window">table of contents</a>]<br>
+Editorial: pp. 397-399 [&nbsp;<a href="Editorial_bib.html#BodenhoferHuellermeierKlawonnKruse07">bib</a>&nbsp;|
+<a href="http://dx.doi.org/10.1007/s00500-006-0105-3" target="new_window">DOI</a>&nbsp;]
+<br clear="all"></p>
+<p>
+<a name="BodenhoferDeBaetsKlementSaminger-Platz12"></a><img src="covers/FSS2012_80.jpg" align="left" hspace="5" vspace="0" border=1>
+U.&nbsp;Bodenhofer, B.&nbsp;De&nbsp;Baets, E.&nbsp;P.&nbsp;Klement, and S.&nbsp;Saminger-Platz, editors.<br>
+<b>Special issue &quot;Fuzzy Set Theory - Where Do We Stand and Where Do We Go?&quot;</b><br>
+<em>Fuzzy Sets and Systems</em>, 192:1-200, 2012. (9 papers) [<a href="http://www.sciencedirect.com/science/journal/01650114/192" target="new_window">table of contents</a>]<br>
+Editorial: pp. 1-2 [&nbsp;<a href="Editorial_bib.html#BodenhoferDeBaetsKlementSaminger-Platz12">bib</a>&nbsp;|
+<a href="http://dx.doi.org/10.1016/j.fss.2011.11.001" target="new_window">DOI</a>&nbsp;]
+<br clear="all"></p>
+
+<h3>Proceedings</h3>
+
+<p>
+<a name="StepnickaNovakBodenhofer07"></a><img src="covers/EUSFLAT2007_Vol-I_80.jpg" align="left" hspace="5" vspace="0" border=1>
+M.&nbsp;&Scaron;t&#283;pni&#x010D;ka, V.&nbsp;Nov&aacute;k, and U.&nbsp;Bodenhofer, editors.<br>
+<b>New Dimensions in Fuzzy Logic and Related Technologies. Proceedings of the 5th EUSFLAT Conference. Vol. I</b><br>
+University of  Ostrava, 2007. ISBN 978-80-7368-386-3.<br>
+[&nbsp;<a href="Editorial_bib.html#StepnickaNovakBodenhofer07">bib</a>&nbsp;|
+<a href="http://www.eusflat.org/publications/proceedings/EUSFLAT_2007/Vol-I.htm">table of contents</a>&nbsp;|
+<a href="http://www.eusflat.org/publications/proceedings/EUSFLAT_2007/Vol-I.pdf">.pdf</a>&nbsp;]
+<br clear="all"></p>
+
+<p>
+<a name="StepnickaNovakBodenhofer07b"></a><img src="covers/EUSFLAT2007_Vol-II_80.jpg" align="left" hspace="5" vspace="0" border=1>
+M.&nbsp;&Scaron;t&#283;pni&#x010D;ka, V.&nbsp;Nov&aacute;k, and U.&nbsp;Bodenhofer, editors.<br>
+<b>New Dimensions in Fuzzy Logic and Related Technologies. Proceedings of the 5th EUSFLAT Conference. Vol. II</b><br>
+University of  Ostrava, 2007. ISBN 978-80-7368-387-0 .<br>
+[&nbsp;<a href="Editorial_bib.html#StepnickaNovakBodenhofer07b">bib</a>&nbsp;|
+<a href="http://www.eusflat.org/publications/proceedings/EUSFLAT_2007/Vol-II.htm">table of contents</a>&nbsp;|
+<a href="http://www.eusflat.org/publications/proceedings/EUSFLAT_2007/Vol-II.pdf">.pdf</a>&nbsp;]
+<br clear="all"></p>
+
+<p>
+<a name="BodenhoferDeBaetsKlementSaminger-Platz09"></a><img src="covers/LINZ2009_80.jpg" align="left" hspace="5" vspace="0" border=1>
+U.&nbsp;Bodenhofer, B.&nbsp;De&nbsp;Baets, E.&nbsp;P.&nbsp;Klement, and S.&nbsp;Saminger-Platz, editors.<br>
+<b>The Legacy of 30 Seminars - Where Do We Stand and Where Do We Go? Abstracts of the 30th Linz Seminar on Fuzzy Set Theory.</b><br>
+Johannes Kepler University Linz 2009.<br>
+[&nbsp;<a href="Editorial_bib.html#BodenhoferDeBaetsKlementSaminger-Platz09">bib</a>&nbsp;|
+<a href="http://www.flll.jku.at/div/research/linz2009/LINZ2009Abstracts.pdf">.pdf</a>&nbsp;]
+<br clear="all"></p>
+<br>
+<br>
+
+<! END OF  TEXT ------------------------------------------------------------------------------------------ >
+			</td>
+			</tr>
+			<tr>
+			<td class="sign" colspan="2">
+				<hr noshade size="1" width="722">
+				<script type="text/javascript">
+                                	<!--
+                                        	footer();
+                                        //-->
+				</script>
+			</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

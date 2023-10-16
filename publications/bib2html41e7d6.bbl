@@ -1,0 +1,263 @@
+\begin{thebibliography}{10}
+
+\bibitem{BauerBodenhoferKlement96c}
+P.~Bauer, U.~Bodenhofer, and E.~P. Klement.
+\newblock A fuzzy algorithm for pixel classification based on the discrepancy
+  norm.
+\newblock In {\em Proc. 5th IEEE Int. Conf. on Fuzzy Systems}, volume {III},
+  pages 2007--2012, New Orleans, LA, September 1996.
+
+\bibitem{BauerBodenhoferKlement96b}
+P.~Bauer, U.~Bodenhofer, and E.~P. Klement.
+\newblock A fuzzy method for pixel classification and its application to print
+  inspection.
+\newblock In {\em Proc. 6th Int. Conf. on Information Processing and Management
+  of Uncertainty in Knowledge-Based Systems}, volume III, pages 1301--1305,
+  Granada, July 1996.
+
+\bibitem{BauerBodenhoferKlement96}
+P.~Bauer, U.~Bodenhofer, and E.~P. Klement.
+\newblock A fuzzy system for image pixel classification and its genetic
+  optimization.
+\newblock In R.~Trappl, editor, {\em Cybernetics and Systems '96}, volume~1,
+  pages 285--290, Vienna, April 1996. Austrian Society for Cybernetic Studies.
+
+\bibitem{BergmairBodenhofer06}
+R.~Bergmair and U.~Bodenhofer.
+\newblock Syntax-driven analysis of context-free languages with respect to
+  fuzzy relational semantics.
+\newblock In {\em Proc. 15th IEEE Int. Conf. on Fuzzy Systems}, pages
+  9647--9654, Vancouver, BC, July 2006.
+
+\bibitem{Bodenhofer99b}
+U.~Bodenhofer.
+\newblock Adding similarity to fuzzy orderings.
+\newblock In {\em Proc. 4th Meeting of the EURO Working Group on Fuzzy Sets and
+  2nd Int. Conf. on Soft and Intelligent Computing}, pages 194--199, Budapest,
+  May 1999.
+
+\bibitem{Bodenhofer99}
+U.~Bodenhofer.
+\newblock The construction of ordering-based modifiers.
+\newblock In G.~Brewka, R.~Der, S.~Gottwald, and A.~Schierwagen, editors, {\em
+  Fuzzy-Neuro Systems '99}, pages 55--62. Leipziger Universit\"atsverlag, 1999.
+
+\bibitem{Bodenhofer99d}
+U.~Bodenhofer.
+\newblock Representations and constructions of strongly linear fuzzy orderings.
+\newblock In {\em Proc. EUSFLAT-ESTYLF Joint Conference}, pages 215--218, Palma
+  de Mallorca, September 1999.
+
+\bibitem{Bodenhofer00b}
+U.~Bodenhofer.
+\newblock A general framework for ordering fuzzy alternatives with respect to
+  fuzzy orderings.
+\newblock In {\em Proc. 8th Int. Conf. on Information Processing and Management
+  of Uncertainty in Knowledge-Based Systems}, volume~II, pages 1071--1077,
+  Madrid, July 2000.
+
+\bibitem{Bodenhofer01c}
+U.~Bodenhofer.
+\newblock Generalized opening and closure operators of fuzzy relations.
+\newblock In {\em Proc. 2nd Int. ICSC Congress on Computational Intelligence:
+  Methods and Applications}, pages 677--683, Bangor, June 2001.
+
+\bibitem{Bodenhofer01}
+U.~Bodenhofer.
+\newblock Similarity-based fuzzy orderings: a comprehensive overview.
+\newblock In {\em Proc. EUROFUSE Workshop on Preference Modelling and
+  Applications}, pages 21--27, Granada, April 2001.
+
+\bibitem{Bodenhofer02b}
+U.~Bodenhofer.
+\newblock Application perspectives of fuzzy orderings.
+\newblock In {\em Proc. 11th IEEE Int. Conf. on Fuzzy Systems}, pages
+  1357--1362, Honolulu, HI, May 2002.
+
+\bibitem{Bodenhofer02c}
+U.~Bodenhofer.
+\newblock Binary ordering-based modifiers.
+\newblock In {\em Proc. 9th Int. Conf. on Information Processing and Management
+  of Uncertainty in Knowledge-Based Systems}, volume~3, pages 1953--1959,
+  Annecy, July 2002.
+
+\bibitem{Bodenhofer03f}
+U.~Bodenhofer.
+\newblock Fuzzy orderings of fuzzy sets.
+\newblock In {\em Proc. 10th IFSA World Congress}, pages 500--507, Istanbul,
+  July 2003.
+
+\bibitem{Bodenhofer03g}
+U.~Bodenhofer.
+\newblock On the preservation of monotonicity by extended mappings.
+\newblock In {\em Proc. 3rd Int. Conf. in Fuzzy Logic and Technology}, pages
+  251--254, Zittau, September 2003.
+
+\bibitem{Bodenhofer06}
+U.~Bodenhofer.
+\newblock Lexicographic composition of fuzzy orderings.
+\newblock In {\em Proc. 11th Int. Conf. on Information Processing and
+  Management of Uncertainty in Knowledge-Based Systems}, volume~3, pages
+  2430--2437, Paris, July 2006.
+
+\bibitem{Bodenhofer09}
+U.~Bodenhofer.
+\newblock A survey of applications of fuzzy orderings: from databases to
+  statistics and machine learning.
+\newblock In {\em Proc. 14 Recontres Francophones sur la Logique Floue et ses
+  Applications}, pages 3--9, Annecy, November 2009.
+
+\bibitem{BodenhoferBauer00}
+U.~Bodenhofer and P.~Bauer.
+\newblock Towards an axiomatic treatment of ``interpretability''.
+\newblock In {\em Proc. 6th Int. Conf. on Soft Computing}, pages 334--339,
+  Iizuka, October 2000.
+
+\bibitem{BodenhoferBogdanowiczLanzerstorferKueng05}
+U.~Bodenhofer, P.~Bogdanowicz, G.~Lanzerstorfer, and J.~K\"ung.
+\newblock Distance-based fuzzy relations in flexible query answering systems:
+  Overview and experiences.
+\newblock In I.~D\"untsch and M.~Winter, editors, {\em Proc. 8th Int. Conf. on
+  Relational Methods in Computer Science}, pages 15--22, St. Catharines, ON,
+  February 2005. Brock University.
+
+\bibitem{BodenhoferDankovaStepnickaNovak07}
+U.~Bodenhofer, M.~Da\v{n}kov\'{a}, M.~\v{S}t\v{e}pni\v{c}ka, and V.~Nov\'{a}k.
+\newblock A plea for the usefulness of the deductive interpretation of fuzzy
+  rules in engineering applications.
+\newblock In {\em Proc. 16th IEEE Int. Conf. on Fuzzy Systems}, pages
+  1567--1572, London, July 2007.
+
+\bibitem{BodenhoferDemirci05}
+U.~Bodenhofer and M.~Demirci.
+\newblock Strict fuzzy orderings in a similarity-based setting.
+\newblock In {\em Proc. Joint 4th Conf. of the European Society for Fuzzy Logic
+  and Technology and 11 Recontres Francophones sur la Logique Floue et ses
+  Applications}, pages 297--302, Barcelona, September 2005.
+
+\bibitem{BodenhoferHaslinger-EistererMinichmayerHermanutzMeier17}
+U.~Bodenhofer, B.~Haslinger-Eisterer, A.~Minichmayer, G.~Hermanutz, and
+  J.~Meier.
+\newblock Machine learning-based risk profile classification: A case study for
+  heart valve surgery.
+\newblock In {\em NIPS Workshop on Machine Learning for Health}, Long Beach,
+  CA, December 2017.
+
+\bibitem{BodenhoferHochreiter17}
+U.~Bodenhofer and S.~Hochreiter.
+\newblock Position kernels as a key to making sense of very rare and private
+  single-nucleotide variants.
+\newblock In {\em NIPS Workshop on Machine Learning in Computational Biology},
+  Long Beach, CA, December 2017.
+
+\bibitem{BodenhoferKlawonn07}
+U.~Bodenhofer and F.~Klawonn.
+\newblock Towards robust rank correlation measures for numerical observations
+  on the basis of fuzzy orderings.
+\newblock In M.~\v{S}t\v{e}pni\v{c}ka, V.~Nov{\'a}k, and U.~Bodenhofer,
+  editors, {\em Proc. 5th Conference of the European Society for Fuzzy Logic
+  and Technology}, volume~{I}, pages 321--327, Ostrava, September 2007.
+
+\bibitem{BodenhoferKlement97}
+U.~Bodenhofer and E.~P. Klement.
+\newblock Pixel classification: A fuzzy-genetic approach.
+\newblock In {\em Proc. 7th IFSA World Congress}, volume~4, pages 38--43,
+  Prague, June 1997.
+
+\bibitem{BodenhoferKueng01}
+U.~Bodenhofer and J.~K{\"u}ng.
+\newblock Enriching vague queries by fuzzy orderings.
+\newblock In {\em Proc. 2nd Int. Conf. in Fuzzy Logic and Technology (EUSFLAT
+  2001)}, pages 360--364, Leicester, September 2001.
+
+\bibitem{BodenhoferSchwarzbauerIonescuHochreiter09}
+U.~Bodenhofer, K.~Schwarzbauer, M.~Ionescu, and S.~Hochreiter.
+\newblock Modeling position specificity in sequence kernels by fuzzy
+  equivalence relations.
+\newblock In J.~P. Carvalho, D.~Dubois, U.~Kaymak, and J.~M.~C. Sousa, editors,
+  {\em Proc. Joint 13th IFSA World Congress and 6th EUSFLAT Conference}, pages
+  1376--1381, Lisbon, July 2009.
+
+\bibitem{BehounekBodenhoferCintula07}
+L.~B\v{e}hounek, U.~Bodenhofer, and P.~Cintula.
+\newblock Valverde-style representation results in a graded framework.
+\newblock In M.~\v{S}t\v{e}pni\v{c}ka, V.~Nov{\'a}k, and U.~Bodenhofer,
+  editors, {\em Proc. 5th Conference of the European Society for Fuzzy Logic
+  and Technology}, volume~{I}, pages 153--160, Ostrava, September 2007.
+
+\bibitem{BehounekCintulaBodenhoferSaminger-PlatzSarkoci10}
+L.~B\v{e}hounek, P.~Cintula, U.~Bodenhofer, S.~Saminger-Platz, and P.~Sarkoci.
+\newblock On a graded notion of t-norm and dominance.
+\newblock In {\em Proc. 40th IEEE Int. Symp. on Multiple-Valued Logic}, pages
+  73--78. IEEE Computer Society, 2010.
+
+\bibitem{DeCockBodenhoferKerre00}
+M.~{De Cock}, U.~Bodenhofer, and E.~E. Kerre.
+\newblock Modelling linguistic expressions using fuzzy relations.
+\newblock In {\em Proc. 6th Int. Conf. on Soft Computing}, pages 353--360,
+  Iizuka, October 2000.
+
+\bibitem{DrobicsBodenhofer02}
+M.~Drobics and U.~Bodenhofer.
+\newblock Fuzzy modeling with decision trees.
+\newblock In {\em Proc. 2002 IEEE Int. Conf. on Systems, Man and Cybernetics},
+  volume~4, Hammamet, October 2002.
+
+\bibitem{DrobicsBodenhoferWiniwarterKlement01}
+M.~Drobics, U.~Bodenhofer, W.~Winiwarter, and E.~P. Klement.
+\newblock Data mining using synergies between self-organizing maps and
+  inductive learning of fuzzy rules.
+\newblock In {\em Proc. Joint 9th IFSA World Congress and 20th NAFIPS Int.
+  Conf.}, pages 1780--1785, Vancouver, BC, July 2001.
+
+\bibitem{DrobicsWiniwarterBodenhofer00}
+M.~Drobics, W.~Winiwarter, and U.~Bodenhofer.
+\newblock Interpretation of self-organizing maps with fuzzy rules.
+\newblock In {\em Proc. 12th IEEE Int. Conf. on Tools with Artificial
+  Intelligence}, pages 304--311, Vancouver, BC, November 2000.
+
+\bibitem{HaslingerBodenhoferBurger01}
+J.~Haslinger, U.~Bodenhofer, and M.~Burger.
+\newblock Data-driven construction of {Sugeno} controllers: Analytical aspects
+  and new numerical methods.
+\newblock In {\em Proc. Joint 9th IFSA World Congress and 20th NAFIPS Int.
+  Conf.}, pages 239--244, Vancouver, BC, July 2001.
+
+\bibitem{HaslingerBodenhofer05}
+P.~Haslinger and U.~Bodenhofer.
+\newblock Resolving the conflict between competitive and cooperative behavior
+  {M}ichigan-type fuzzy classifier systems.
+\newblock In {\em Proc. Joint 4th Conf. of the European Society for Fuzzy Logic
+  and Technology and 11 Recontres Francophones sur la Logique Floue et ses
+  Applications}, pages 279--284, Barcelona, September 2005.
+
+\bibitem{LughoferBodenhofer06}
+E.~Lughofer and U.~Bodenhofer.
+\newblock Incremental learning of fuzzy basis function networks with a modified
+  version of vector quantization.
+\newblock In {\em Proc. 11th Int. Conf. on Information Processing and
+  Management of Uncertainty in Knowledge-Based Systems}, volume~1, pages
+  56--63, Paris, July 2006.
+
+\bibitem{MoserBodenhofer06}
+B.~Moser and U.~Bodenhofer.
+\newblock Correspondences between fuzzy equivalence relations and kernels:
+  theoretical results and potential applications.
+\newblock In {\em Proc. 15th IEEE Int. Conf. on Fuzzy Systems}, pages
+  10217--10223, Vancouver, BC, July 2006.
+
+\bibitem{NavaraBodenhofer01}
+M.~Navara and U.~Bodenhofer.
+\newblock Compactness of fuzzy logics.
+\newblock In {\em Proc. 2nd Int. ICSC Congress on Computational Intelligence:
+  Methods and Applications}, pages 654--657, Bangor, June 2001.
+
+\bibitem{TremlArjona-MedinaUnterthinerDurgeshFriedmannSchuberthMayr16}
+M.~Treml, J.~Arjona-Medina, T.~Unterthiner, R.~Durgesh, F.~Friedmann,
+  P.~Schuberth, A.~Mayr, M.~Heusel, M.~Hofmarcher, M.~Widrich, U.~Bodenhofer,
+  B.~Nessler, and S.~Hochreiter.
+\newblock Speeding up semenatic segmentation for autonomous driving.
+\newblock In {\em NIPS Workshop on Machine Learning for Intelligent
+  Transportation Systems}, Barcelona, December 2016.
+
+\end{thebibliography}

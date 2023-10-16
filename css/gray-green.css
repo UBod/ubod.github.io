@@ -1,0 +1,75 @@
+.doc {
+	COLOR: #666666; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+BODY {
+	COLOR: #666666; MARGIN-TOP: 0px; FONT-SIZE: 9pt; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 0pt; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+A.menuitem {
+	COLOR: #666666; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.menuitemselected {
+	COLOR: #FFFFFF;  BACKGROUND-COLOR: #66CC66; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.menuitem:link, A.menuitem:visited, A.menuitem:active, A.menuitem:hover  {
+	COLOR: #666666; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.menuitemselected:link, A.menuitemselected:visited, A.menuitemselected:active, A.menuitemselected:hover {
+	COLOR: #FFFFFF; BACKGROUND-COLOR: #66CC66; FONT-SIZE: 9pt; TEXT-DECORATION: none
+} 
+A:active, A:link, A:visited  {
+	COLOR: #66CC66; TEXT-DECORATION: none
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+H5 {
+	FONT-WEIGHT: bold
+}
+I {
+	FONT-SIZE: 9pt
+}
+LI {
+	FONT-SIZE: 9pt
+}
+OL {
+	FONT-SIZE: 9pt
+}
+P {
+	FONT-SIZE: 9pt
+}
+TD {
+	FONT-SIZE: 9pt
+}
+TD.menuitem {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #666666
+}
+TD.menuitemselected {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #66CC66
+}
+TD.menuitem a {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #666666
+}
+TD.menuitemselected a {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #66CC66
+}
+TD.sign  {
+        COLOR: #333; font-size: 7pt; text-align: center
+}
+TD.inv {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; BACKGROUND-COLOR: #666666; text-align: center
+}
+TH {
+	FONT-SIZE: 9pt
+}
+UL {
+	FONT-SIZE: 9pt
+}

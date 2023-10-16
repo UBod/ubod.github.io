@@ -1,0 +1,147 @@
+.doc {
+	BACKGROUND-COLOR: #ffffff
+}
+.emph {
+	FONT-WEIGHT: 800
+}
+A.menuitem {
+	COLOR: #000000; FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.menuitemselected {
+	COLOR: #FFFFFF;  BACKGROUND-COLOR: #CC3333; FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.menuitem:link, A.menuitem:visited, A.menuitem:active, A.menuitem:hover  {
+	COLOR: #000000; FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A.menuitemselected:link, A.menuitemselected:visited, A.menuitemselected:active, A.menuitemselected:hover {
+	COLOR: #FFFFFF; BACKGROUND-COLOR: #CC3333; FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+} 
+A.line {
+	FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #CC3333; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #CC3333; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #CC3333; FONT-FAMILY: Helvetica, Arial, sans-serif; TEXT-DECORATION: none
+}
+ADDRESS {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+B {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+B.red {
+	COLOR: #ab0701
+}
+BLOCKQUOTE {
+	FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 9pt; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 0pt; FONT-FAMILY: Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+DD {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+DIV {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+DL {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+DT {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+H1 {
+	FONT-SIZE: 18pt; COLOR: #000000; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+H2 {
+	FONT-SIZE: 16pt; COLOR: #000000; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+H4 {
+	FONT-WEIGHT: 800; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+H5 {
+	FONT-WEIGHT: 800; COLOR: black
+}
+I {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+INPUT {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+LI {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+NOBR {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+OL {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+OPTION {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+P {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+P.special {
+	FONT-SIZE: 8pt; COLOR: #000000
+}
+PRE {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: "Courier New", Courier
+}
+SELECT {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+STRONG {
+	FONT-SIZE: 9pt
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+TD.menuitem {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+TD.menuitemselected {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #CC3333; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+TD.menuitem a {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+TD.menuitemselected a {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #CC3333; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+TD.sign  {
+        COLOR: #333; font-size: 7pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-align: center
+}
+TD.eyecatcher {
+	FONT-WEIGHT: 800; VERTICAL-ALIGN: middle
+}
+TD.inv {
+	FONT-WEIGHT: 800; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #000000; text-align: center
+}
+TD.left {
+	FONT-WEIGHT: 800
+}
+TD.spec {
+	BACKGROUND-COLOR: #000000
+}
+TD.top {
+	FONT-WEIGHT: 800; BACKGROUND-COLOR: #d6d6d6
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+TH {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+UL {
+	FONT-SIZE: 9pt; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
