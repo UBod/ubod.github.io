@@ -115,6 +115,7 @@ sub PostProcess
     $content =~ s/\_RAW//g;
     $content =~ s/U\.(\&nbsp| )\;Bodenhofer/\<b\>U\.\&nbsp\;Bodenhofer\<\/b\>/g;
     $content =~ s/The(\&nbsp|\s+)QSTAR(\&nbsp|\s+)Consortium/\<b\>The QSTAR Consortium\<\/b\>/g;
+    $content =~ s/\<a href=\"http(.*)\>(.*)\<\/a\>/\<a href=\"http$1 target=\"_blank\"\>$2\<\/a\>/g;
 
     if ($type eq "all")
     {
