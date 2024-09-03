@@ -121,6 +121,7 @@ sub PostProcess
     {
         $content =~ s/---/\&\#8212;/g;
         $content =~ s/--/\&\#8211;/g;
+        $content =~ s/http:\/\/dx.doi.org/https:\/\/doi.org/g;
     }
 
     close(INPUT);
