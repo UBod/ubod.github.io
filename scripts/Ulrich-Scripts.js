@@ -42,7 +42,7 @@
     //  if(primary == 'teaching') document.write('<tr><td class="menuitemselected"><a class="menuitemselected" href="' + prefix + 'teaching.html">teaching</a></td></tr>');
     //  else document.write('<tr><td class="menuitem"><a class="menuitem" href="' + prefix + 'teaching.html">teaching</a></td></tr>');
         if(primary == 'publications') document.write('<tr><td class="menuitemselected"><a class="menuitemselected" href="' + prefix + 'publications/">publications</a></td></tr>');
-        else document.write('<tr><td class="menuitem"><a class="menuitem" href="' + prefix + 'publications/">publications</a></td></tr>');
+        else document.write('<tr><td class="menuitem"><a class="menuitem" href="' + prefix + 'publications/index.html">publications</a></td></tr>');
         if(primary == 'software') document.write('<tr><td class="menuitemselected"><a class="menuitemselected" href="' + prefix + 'software.html">software</a></td></tr>');
         else document.write('<tr><td class="menuitem"><a class="menuitem" href="' + prefix + 'software.html">software</a></td></tr>');
         if(primary == 'music') document.write('<tr><td class="menuitemselected"><a class="menuitemselected" href="' + prefix + 'music.html">music</a></td></tr>');
