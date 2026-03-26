@@ -1,1 +1,118 @@
-black-red.css
+/* 1. Global Reset & Font */
+body {
+    /* Ensures sans-serif is used everywhere */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.3;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+/* 2. Responsive Container with Strict Max-Width */
+.content-wrapper, .site-header, .site-footer {
+    width: 95%;           /* Gives a little breathing room on mobile */
+    max-width: 900px;     /* Keeps the layout contained on desktop */
+    margin: 0 auto;       /* Centers the container */
+}
+
+/* 3. Header & Portrait Positioning */
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+    border-bottom: 2px solid #ccc;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+.profile-photo {
+    width: 120px;
+    height: auto;
+    background: #fff;
+}
+
+/* 4. Navigation Menu */
+.main-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.main-nav a {
+    display: inline-block;
+    padding: 8px 16px;
+    color: #000;
+    background-color: #ddd;
+    border: 1px solid #ddd;
+    text-decoration: none;
+    font-size: 1.05rem;
+}
+
+.main-nav a.sel {
+    display: inline-block;
+    padding: 8px 16px;
+    color: #fff;
+    background-color: #555;
+    border: 1px solid #000;
+    text-decoration: none;
+    font-size: 1.05rem;
+}
+
+.main-nav a:hover {
+    background-color: #eee;
+    color: #000;
+}
+
+/* 5. Links & Active State */
+a {
+    color: #888;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Selected Menu Item: Red Background, White Font */
+.main-nav a.active {
+    background-color: #CC3333 !important;
+    color: #ffffff !important;
+    border-color: #CC3333;
+    font-weight: bold;
+}
+
+/* 6. Content Sectioning */
+h2 {
+    font-size: 1.5rem;
+    color: #222;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+/* 7. Mobile Tweaks */
+@media (max-width: 600px) {
+    .header-main {
+        flex-direction: column; /* Stacks name and photo */
+        text-align: center;
+    }
+    
+    .site-header h1 {
+        margin-bottom: 15px;
+    }
+
+    .main-nav ul {
+        justify-content: center; /* Centers menu on small screens */
+    }
+}
